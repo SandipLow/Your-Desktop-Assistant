@@ -1,3 +1,5 @@
+.gitignore
+/GUI
 /.idea
 __pycache__/
 /Build
