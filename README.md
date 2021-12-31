@@ -11,17 +11,14 @@ Then extrct it in this directory.
 For working offline :
     Uses vosk api. A bit unaccurate.
 
-1. open the Terminal in this directory and execute the command : 
-    
-        python init.py
+1. open the Terminal in this directory and execute the commands : 
+        
+        cd .\Core
+        python index.py
 
 2. Enter your name : ___
 3. Enter 1 or 2 as per voice preference
-4. Enter command
-
-        start
-    
-5. Now it is ready to use....
+4. Now it is ready to use....
 
 For working online :
     Uses Speech_recognizer module. More accurate.
