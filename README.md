@@ -38,3 +38,4 @@ Use the following commands for test :
     'search ___ from google/wikipedia/youtube' -- search some thing from as you wish
     'tell me about ___' -- listen about something from wikipedia.
     'open youtube' -- open YT for you
+    'play music' -- play 1st song in C:\Users\'USERPROFILE'\music
